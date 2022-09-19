@@ -31,7 +31,7 @@ $ npm run start
 $ npm run start:dev
 
 ```
-take in mind that the project onyl starts when the 2 consumers get connected (it shows a log like this one) 
+take in mind that the project only starts when the 2 consumers get connected (it shows a log like this one) 
 
 ![imagem](https://user-images.githubusercontent.com/36547913/191052315-4e541dae-f453-484e-abcc-04df7edfd111.png)
 

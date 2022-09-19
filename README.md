@@ -1,6 +1,6 @@
 ## Important note
 
-the rest api and micro-services should be in diffrent projects and communicate with kafka (they're communicating with it) only, its just like this so we can have all in one repo
+the rest api and micro-services should be in diffrent projects(so we could separate them in 3 clouds as assignment says) and communicate with kafka (they're communicating with it) only, its just like this so we can have all in one repo
 
 ## Made With NestJS And APACHE KAFKA
 <p align="center">

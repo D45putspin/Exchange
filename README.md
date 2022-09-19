@@ -1,6 +1,6 @@
 ## Important note
 
-the rest api and micro-services should be in diffrent projects and communicate with kafka only, its just like this so we can have all in one repo
+the rest api and micro-services should be in diffrent projects and communicate with kafka (they're communicating with it) only, its just like this so we can have all in one repo
 
 ## Made With NestJS And APACHE KAFKA
 <p align="center">
@@ -31,6 +31,10 @@ $ npm run start
 $ npm run start:dev
 
 ```
+take in mind that the project onyl starts when the 2 consumers get connected (it shows a log like this one) 
+
+![imagem](https://user-images.githubusercontent.com/36547913/191052315-4e541dae-f453-484e-abcc-04df7edfd111.png)
+
 
 ## Flow
 
